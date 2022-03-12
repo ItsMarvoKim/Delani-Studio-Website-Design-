@@ -3,3 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.logo {
+  position: relative;
+  text-align: center;
+  bottom: 695px;
+}
