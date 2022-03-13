@@ -69,5 +69,16 @@ h5{
 }
 
 .WWD-header{
-    margin-top: 228px;
+    margin-top: 220px;
+}
+
+
+
+.WWD-icons{
+    padding-top: 30px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    top: 20px;   
 }
