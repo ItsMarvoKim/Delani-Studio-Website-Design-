@@ -63,6 +63,11 @@ h5{
     font-size: 1rem;  
 }
 
+h6{
+  font-family: Impact, sans-serif;
+  font-size: 1.1rem;
+}
+
 .services-text{
     margin-top: -335px;
     color: beige;
@@ -72,14 +77,29 @@ h5{
     margin-top: 220px;
 }
 
-
-
 .WWD-icons{
     padding-top: 30px;
-    left: 10%;
+    margin-left: 10px;
     position: relative;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
     top: 20px;   
+}
+
+.WWD-icon-titles{
+  margin-left: 90px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;  
+}
+
+.dsn-title{
+  margin-left: 15px;
+
+}
+
+.dv-title{
+  margin-left: 60px;
 }
