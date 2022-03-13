@@ -113,3 +113,13 @@ h6{
 .portfolio-h3{
   margin-top: 70px;
 }
+
+.portfolio-images{
+  margin-top: 40px;
+  position: relative;
+  display: flex;
+  flex-direction: inherit;
+  
+  
+
+}
