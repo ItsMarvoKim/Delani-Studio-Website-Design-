@@ -54,6 +54,7 @@ h2 {
 h4 {
   text-align: center;
   font-family: "Gill Sans", "Trebuchet MS", sans-serif;
+  font-weight: 599;
 }
 
 h3{
@@ -114,16 +115,13 @@ h6{
   margin-top: 70px;
 }
 
-.portfolio-images1{
+.portfolio-images{
   margin-top: 40px;
   position: relative;
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
+  margin-left: 9%;
+  margin-right: 9%;
 }
 
-.portfolio-images2{
-  margin-top: 40px;
-  position: relative;
-  display: flex;
-  flex-direction: row;
-}
