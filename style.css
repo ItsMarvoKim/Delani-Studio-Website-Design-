@@ -152,10 +152,6 @@ h6{
   transition: 200ms ease-in-out;
 }
 
-.img-wrap:hover > img.blur{
-  filter: blur(5px);
-}
-
 .img-wrap > .content.fade{
   opacity: 0;
 }
@@ -163,7 +159,11 @@ h6{
   opacity:1;
 }
 .contact-us-text{
-  color: white;
+  color: rgb(255, 253, 253);
+  margin-top: -610px;
+}
+
+.contact-bg{
   margin-top: 50px;
 }
 
@@ -193,7 +193,7 @@ input:focus ~ label, textarea:focus ~ label, input:valid ~ label, textarea:valid
 }
 
 .styled-input label {
-  color: #999;
+  color: rgb(247, 233, 233);
   padding: 1.3rem 30px 1rem 30px;
   position: absolute;
   top: 10px;
@@ -211,12 +211,12 @@ input:focus ~ label, textarea:focus ~ label, input:valid ~ label, textarea:valid
 input,
 textarea {
   padding: 30px;
-  border: 0;
+  border: 3;
   width: 100%;
   font-size: 1rem;
-  background-color: #2d2d2d;
-  color: white;
-  border-radius: 4px;
+  background-color: transparent;
+  color: rgb(241, 228, 228);
+  border-radius: 3px;
 }
 
 input:focus,
@@ -270,11 +270,12 @@ textarea {
 }
 
 input[type=checkbox] + label {
-color: #ccc;
+color: rgb(255, 255, 255);
 font-style: italic;
 } 
 
 input[type=checkbox]:checked + label {
-color: #f00;
+color: rgb(255, 255, 255);
 font-style: normal;
 }
+
