@@ -114,12 +114,16 @@ h6{
   margin-top: 70px;
 }
 
-.portfolio-images{
+.portfolio-images1{
   margin-top: 40px;
   position: relative;
   display: flex;
-  flex-direction: inherit;
-  
-  
+  flex-direction: row;
+}
 
+.portfolio-images2{
+  margin-top: 40px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
 }
