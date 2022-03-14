@@ -125,3 +125,33 @@ h6{
   margin-right: 9%;
 }
 
+.img-wrap{
+  position: relative;
+  overflow: hidden;
+}
+
+.img-wrap > img{
+  display: block;
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  object-position: center;
+}
+.img-wrap > .content{
+  position: absolute;
+  inset: 0;
+  font-size: 2rem;
+  background: rgba(255, 255, 255, .4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-wrap > img,
+.img-wrap > .content{
+  transition: 200ms ease-in-out;
+}
+
+.img-wrap:hover > img.blur{
+  filter: blur(5px);
+}
