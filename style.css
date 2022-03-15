@@ -279,3 +279,17 @@ color: rgb(255, 255, 255);
 font-style: normal;
 }
 
+footer{
+  text-align: center;
+  margin-top:150px
+}
+.txt{
+  margin-top: 20px;
+  font-family: 'Roborto', 'Cambria';
+  color: rgb(53, 48, 48);
+}
+.year-txt{
+  margin-top: 20px;
+  color: rgb(39, 34, 34);
+  margin-bottom: 10px;
+}
