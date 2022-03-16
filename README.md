@@ -9,7 +9,7 @@
 This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. 
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/ItsMarvoKim/Delani-Studio-Website-Design-/master/images/delanihome.png" width="900px" height="440px">
+<img src="https://file:///home/marvo/Pictures/Screenshot%20from%202022-03-16%2017-20-01.png" width="900px" height="440px">
 
 ## Live Page 
 https://ItsMarvoKim.github.io/Delani-Studio-Website-Design- 
