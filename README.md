@@ -12,13 +12,13 @@ This project is a web application for Delani studio that shows details about the
 <img src="https://raw.githubusercontent.com/ItsMarvoKim/Delani-Studio/master/images/delanihome.png" width="900px" height="440px">
 
 ## Live Page 
-https://ItsMarvoKim.github.io/Delani-Studio-Website-Design 
+https://ItsMarvoKim.github.io/Delani-Studio-Website-Design- 
 
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/ItsMarvoKim/Delani-Studio-Website-Design.git```
+* git clone ```https://github.com/ItsMarvoKim/Delani-Studio-Website-Design-.git```
 
 * cd Delani-Studio-Website-Design
 
