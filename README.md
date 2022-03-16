@@ -31,6 +31,16 @@ https://ItsMarvoKim.github.io/Delani-Studio-Website-Design-
 * markdown
 
 
+## BDD
+| Behaviour      | Input        | Output       |
+| :------------- | :----------: | -----------: |
+|  Enter your name  |   Marvin Kimathi |     |
+| Enter your Email Address  | issmarvokim@gmail.com |   |
+| Enter your message or comment   |  I would love to work with you     |     |
+| Press Submit|     |Pop up "Marvin Kimathi" , we have received your message. Thank you for reaching out to us.|
+
+
+
 ## Known Bugs
 * The site is not responsive enough for some devices. 
 * mail chimp API does not function properly.
