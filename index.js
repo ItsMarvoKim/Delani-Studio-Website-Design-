@@ -3,8 +3,8 @@ $(document).ready(function(){
     $(".dvt-image").slideDown('1500').hide('1000');
     $(".dv-title").show('1500');
   });
-  $("#.dv-title").click(function(){
-    $(".dv-title").slideUp('1500');
+  $(".dvt-title").click(function(){
+    $(".dvt-title").slideUp('1500');
     $(".dvt-image").slideDown('1500');
   });
 });
@@ -12,10 +12,10 @@ $(document).ready(function(){
 $(document).ready(function(){
   $(".dsn-image").click(function(){
     $(".dsn-image").slideDown('1500').hide('1000');
-    $(".dsn-title").show('1500');
+    $(".WWD-icon-titles").show('1500');
   });
-  $(".dsn-title").click(function(){
-    $(".dsn-title").slideUp('1500');
+  $(".WWD-icon-titles").click(function(){
+    $(".WWD-icon-titles").slideUp('1500');
     $(".dsn-image").slideDown('1500');
   });
 });
